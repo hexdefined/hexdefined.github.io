@@ -1,0 +1,14 @@
+# Site settings
+title: hex
+baseurl: ""
+url: "https://hexdefined.xyz"
+twitter_username:   hexdefined
+telegram_username:  hexdefined
+github_username:    hexdefined
+
+asset_path: /assets
+
+nav:
+
+# Build settings
+markdown: kramdown

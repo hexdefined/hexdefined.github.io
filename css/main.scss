@@ -1,0 +1,38 @@
+---
+# main stylesheet
+---
+
+$width_large:   960px;
+$width_medium:  600px;
+$width_small:   300px;
+
+$spacing:       1em;
+
+$font:          'DejaVu Sans Mono', monospace;
+
+$colour_bg_dark:        #202020;
+$colour_fg_dark:        #808080;
+$colour_fg_bold_dark:   white;
+$colour_nav_bg_dark:    #404040;
+$colour_nav_fg_dark:    #c0c0c0;
+$colour_nav_secondary_dark: #303030;
+$colour_hl_dark:        #39f;
+$colour_hl_fg_dark:     black;
+
+$colour_bg_light:       #e0e0e0;
+$colour_fg_light:       #303030;
+$colour_fg_bold_light:  #202020;
+$colour_nav_light:      #c0c0c0;
+$colour_hl_light:       #39f;
+$colour_hl_fg_light:    black;
+
+$colour_bg:             $colour_bg_dark;
+$colour_fg:             $colour_fg_dark;
+$colour_fg_bold:        $colour_fg_bold_dark;
+$colour_hl:             $colour_hl_dark;
+$colour_hl_fg:          $colour_hl_fg_dark;
+$colour_nav_bg:         $colour_nav_bg_dark;
+$colour_nav_fg:         $colour_nav_fg_dark;
+$colour_nav_secondary:  $colour_nav_secondary_dark;
+
+@import 'base', 'layout', 'visual';

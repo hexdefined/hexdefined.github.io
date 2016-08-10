@@ -1,0 +1,11 @@
+<header>
+  <nav class="site-nav">
+    <ul>
+      {% for entry in site.nav %}
+        {% if entry.title %}
+          <li><a href="{{ entry.url | prepend: site.baseurl }}">{{ entry.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </nav>
+</header>

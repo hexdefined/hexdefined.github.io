@@ -1,0 +1,60 @@
+body {
+  background: $colour_bg;
+  color: $colour_fg;
+  border-color: $colour_hl;
+}
+
+a {
+  color: $colour_fg;
+}
+
+h1 {
+  color: $colour_fg_bold;
+}
+
+h2 {
+  color: #d0d0d0;
+}
+
+h3 {
+  color: #b0b0b0;
+}
+
+.username {
+  color: $colour_fg_bold;
+}
+
+// main navigation
+.site-nav {
+  ul {
+    @media screen and (max-width: $width_medium) {
+      background: $colour_nav_bg;
+    }
+
+    li {
+      a {
+        color: $colour_nav_fg;
+        background-image: url(/assets/arrow.svg), url(/assets/block.svg), url(/assets/arrow.svg);
+        background-position: left, 0 0, right;
+        background-origin: padding-box, content-box, padding-box;
+        background-size: auto 100%, cover, auto 100%;
+        background-repeat: no-repeat;
+
+        @media screen and (max-width: $width_medium) {
+          background: $colour_nav_bg;
+        }
+      }
+    }
+  }
+}
+
+.contact-form {
+  input, textarea {
+    background: white;
+  }
+
+  input[type="submit"] {
+    background: $colour_hl;
+    color: $colour_hl_fg;
+  }
+}
