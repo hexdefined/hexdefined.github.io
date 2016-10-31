@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/hexdefined
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hexdefined.xyz
+  * I am hexdefined (https://keybase.io/hexdefined) on keybase.
+  * I have a public key ASDcPq-uD63jWKr_BbM6RN1rllJ_wMCohjJOLTDu-hXUngo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120dc3eafae0fade358aaff05b33a44dd6b96527fc0c0a886324e2d30eefa15d49e0a",
+            "host": "keybase.io",
+            "kid": "0120dc3eafae0fade358aaff05b33a44dd6b96527fc0c0a886324e2d30eefa15d49e0a",
+            "uid": "2d3af45aa7db5ed4cabdae77edfc4719",
+            "username": "hexdefined"
+        },
+        "service": {
+            "hostname": "hexdefined.xyz",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1477918049,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1477918035,
+        "hash": "508a21d19afe55cc541d8465ddf31662cfc8e765b6e18ad5640a26a2c86b30155ac749e3b99acd2eca3c59fd9839bf1f4f13c3ee093837a805aadf60c384e41b",
+        "seqno": 694427
+    },
+    "prev": "ba395b60cfdc551cc265f5c28a24da64c3bb74231125fd74129e8e576ac930e7",
+    "seqno": 17,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3D6vrg+t41iq/wWzOkTda5ZSf8DAqIYyTi0w7voV1J4Kp3BheWxvYWTFAvl7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZGMzZWFmYWUwZmFkZTM1OGFhZmYwNWIzM2E0NGRkNmI5NjUyN2ZjMGMwYTg4NjMyNGUyZDMwZWVmYTE1ZDQ5ZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZGMzZWFmYWUwZmFkZTM1OGFhZmYwNWIzM2E0NGRkNmI5NjUyN2ZjMGMwYTg4NjMyNGUyZDMwZWVmYTE1ZDQ5ZTBhIiwidWlkIjoiMmQzYWY0NWFhN2RiNWVkNGNhYmRhZTc3ZWRmYzQ3MTkiLCJ1c2VybmFtZSI6ImhleGRlZmluZWQifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImhleGRlZmluZWQueHl6IiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTcifSwiY3RpbWUiOjE0Nzc5MTgwNDksImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ3NzkxODAzNSwiaGFzaCI6IjUwOGEyMWQxOWFmZTU1Y2M1NDFkODQ2NWRkZjMxNjYyY2ZjOGU3NjViNmUxOGFkNTY0MGEyNmEyYzg2YjMwMTU1YWM3NDllM2I5OWFjZDJlY2EzYzU5ZmQ5ODM5YmYxZjRmMTNjM2VlMDkzODM3YTgwNWFhZGY2MGMzODRlNDFiIiwic2Vxbm8iOjY5NDQyN30sInByZXYiOiJiYTM5NWI2MGNmZGM1NTFjYzI2NWY1YzI4YTI0ZGE2NGMzYmI3NDIzMTEyNWZkNzQxMjllOGU1NzZhYzkzMGU3Iiwic2Vxbm8iOjE3LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQFQTUWxzA3uckA7Take9ymoKujDHemKX7Fa3dhAe7af5lbMG1Vv+fnYfumISJFoc1uv+h1NL4m7IKOV8Vz1ffAOoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBGnAcham1zgTOE58/tRujM+l19aw0/gdYft2ZIaI6Jf6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hexdefined
+
+==================================================================
